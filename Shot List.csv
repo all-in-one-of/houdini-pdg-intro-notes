@@ -1,0 +1,17 @@
+Show,Camera,Color,Amount_Seed,Amount_Food,Bumper_Thickness,Search_Rad,Growth_Step,Max_Points
+Steve,1,R,5,2,0.5,0.01,0.1,4
+Drew,3,O,4,5,0.5,0.01,0.1,4
+Roller,2,Y,6,3,0.5,0.01,0.1,4
+Aaron,4,G,7,7,0.5,0.01,0.1,4
+Joe,3,B,8,8,0.5,0.01,0.1,4
+Melissa,1,I,5,4,0.5,0.01,0.1,4
+Mike,5,V,9,7,0.5,0.01,0.1,4
+Justin,3,R,7,6,0.5,0.01,0.1,4
+Cameron,1,O,5,2,0.5,0.01,0.1,4
+Ali,3,Y,7,9,0.5,0.01,0.1,4
+Nate,4,G,4,7,0.5,0.01,0.1,4
+Bethany,1,B,6,4,0.5,0.01,0.1,4
+Dan,2,I,7,8,0.5,0.01,0.1,4
+Allen,3,V,9,5,0.5,0.01,0.1,4
+Derek,4,R,5,8,0.5,0.01,0.1,4
+Tyler,2,O,7,6,0.5,0.01,0.1,4
